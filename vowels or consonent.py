@@ -1,7 +1,7 @@
-ch = input("Enter a character: ")
+tn = input("Enter a character: ")
 
-if(ch=='A' or ch=='a' or ch=='E' or ch =='e' or ch=='I'
- or ch=='i' or ch=='O' or ch=='o' or ch=='U' or ch=='u'):
+if(tn=='A' or tn=='a' or tn=='E' or tn =='e' or tn=='I'
+ or tn=='i' or tn=='O' or tn=='o' or tn=='U' or tn=='u'):
     print(ch, "is a Vowel")
 else:
-    print(ch, "is a Consonant")
+    print(tn, "is a Consonant")
